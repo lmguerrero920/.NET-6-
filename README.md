@@ -13,7 +13,7 @@ Demo de practica con nuevas características de .NET6
 ## Installation 💡 
  Para ejecutar este proyecto debes crear la base de datos con el Script (SQLQuery1.sql) y cambiar la cadena de conexión del archivo appsettings.json 
 ## App features 🪐
- -Create
+ - Create
 - Read
 - Update
 - Delete 
